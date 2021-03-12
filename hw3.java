@@ -585,7 +585,7 @@ public class hw3 extends JFrame {
         String port = "3306";
         String dbName = "hw3?useUnicode=true&characterEncoding=utf8&useSSL=false&useLegacyDatetimeCode=false&serverTimezone=UTC";
         String userName = "root";
-        String password = "Shaquille123!";
+        String password = "";
         System.out.println("Connecting....");
         // Construct the JDBC URL
         //String dbURL = "jdbc:oracle:thin:@//" + host + ":" + port + "/" + dbName;
